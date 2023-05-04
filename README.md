@@ -4,8 +4,10 @@
 Eye tracker Exercise:
 Eyes and design were created using CSS. Upon sensing mouse movement, the eyes should follow mouse movement and direction using JavaScript event listeners. 
 
-
 How to Run:
+1. clone repo or download zipfile
+2. open "index.html" in browser
+3. run
 
 Future Improvements:
 1. add blinking in intervals
