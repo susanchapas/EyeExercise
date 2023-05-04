@@ -10,3 +10,4 @@ How to Run:
 Future Improvements:
 1. add blinking in intervals
 2. "dizzy" eye effect if mouse movement circles too quickly
+3. add mobile optimization
